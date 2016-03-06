@@ -1,7 +1,3 @@
-/*
-Rotem Saado 201651627
-*/
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
