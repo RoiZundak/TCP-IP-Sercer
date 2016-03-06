@@ -1,6 +1,5 @@
 /*----------Ex4-HTTP-server--------------
 			Author: Roi Cohen
-			I.D:   301063814
 ----------------------------------------*/
 #include <stdio.h>
 #include <stdlib.h>
