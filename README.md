@@ -1,4 +1,5 @@
 # TCP-IP-Server
+#language:C
 
 Program Description:
 You will write two source files, server and threadpool.
@@ -55,7 +56,7 @@ First line example: HTTP/1.0 200 OK\r\n
 Protocol is always HTTP/1.0.
 The header "server" contains your server name and it should be webserver/1.0.
 In order to construct the date, you can use:
-#define RFC1123FMT "%a, %d %b %Y %H:%M:%S GMT"
+# define RFC1123FMT "%a, %d %b %Y %H:%M:%S GMT"
 time_t now;
 char timebuf[128];
 now = time(NULL);
