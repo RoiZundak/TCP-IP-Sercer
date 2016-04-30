@@ -1,5 +1,5 @@
-/*----------Ex4-HTTP-server--------------
-			Author: Roi Cohen
+/*----------HTTP-server--------------
+	Author: Roi Cohen
 ----------------------------------------*/
 #include <stdio.h>
 #include <stdlib.h>
